@@ -2,9 +2,9 @@
 
 
 --------------Proje Sahipleri---------------
-Necati Çuhadar
-Seyit Dağ
-Ramazan Kayalı
+Necati Çuhadar,
+Seyit Dağ,
+Ramazan Kayalı,
 
 Proje bağımlılıkları requirements.txt dosyası içerisinde listelenmiştir. Bağımlılıkları indirmek için CMD ile dosyanın bulunduğu dizine geçerek "pip install -r requirements.txt" komutunu girmeniz gerekmektedir. Daha sonra pip, bağımlılıkları indirecektir.
 
